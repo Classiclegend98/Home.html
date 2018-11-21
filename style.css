@@ -1,0 +1,30 @@
+
+body{
+
+	font-family: system-ui;
+	margin-left: 10%;
+}
+h1 {
+	font-family: ;
+	font-weight: bold;
+	font-variant: small-caps;
+	font-size: 26 px;
+	text-align: center;
+	margin: auto;
+	font-style: italic;
+	color: tan;
+}
+h2 {
+	font-family: Snell Roundhand;
+	font-weight: bold;
+	font-variant: normal;
+	font-style: italic;
+	font-size: 26 px;
+	color: tan;
+	text-align: center;
+	margin: auto;
+}
+img {
+	display: block;
+	margin: auto;
+}
